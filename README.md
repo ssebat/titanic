@@ -1,10 +1,39 @@
 # Titanic Project
 Langara Fall 2021 CPSC assignment 4
 
-
 This project try to answer at least three hypotesis about the dataset Titanic.
-The project will be usul for peopole who are just iniiating in python and data science.
+
 
 Anyone are welcome to contribute to this project.
 
 Thanks.
+
+
+## Description
+This project try to answer at least three hypotesis about the dataset Titanic.
+
+## Getting Started
+
+### Dependencies
+
+* Jupyter notebooks
+* Python 3.0
+* Matploit Lib
+* Pnadas library
+
+## Help
+The project will be usul for people who are just iniiating in python and data science.
+
+```
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Sebastian Tapia  
+
+## Version History
+
+* 0.1
+    * Initial Release
