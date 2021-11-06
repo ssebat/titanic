@@ -4,7 +4,7 @@ Langara Fall 2021 CPSC assignment 4
 This project try to answer at least three hypotesis about the dataset Titanic.
 
 ```
-Anyone are welcome to contribute to this project.
+Anyone is welcome to contribute to this project.
 ```
 
 ## Description
